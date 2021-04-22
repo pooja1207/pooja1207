@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Machine Learning.
 - 🔭 I’m always ready to learn and grow every day.
 - 📫 How to reach me ...
-      LinkedIn : https://www.linkedin.com/in/pooja-maheshwari-505497196
-      
-      Mail     : bhatherp31@gmail.com / pooja.18jics153@jietjodhpur.ac.in
+-      LinkedIn : https://www.linkedin.com/in/pooja-maheshwari-505497196
+-      Mail     : bhatherp31@gmail.com / pooja.18jics153@jietjodhpur.ac.in
 
 <!---
 pooja1207/pooja1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
